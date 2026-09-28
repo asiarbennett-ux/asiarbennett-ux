@@ -38,7 +38,7 @@
 > * **PIM & Least Privilege:** Enforced Just-In-Time (JIT) role elevation to eliminate permanent global admins.
 > * **Log Analytics:** Ran KQL queries on sign-in logs to validate zero-trust enforcement.
 
-#### ⚡ 02. Automated JML & Graph API Runbooks
+#### ⚡ [02. Automated JML & Graph API Runbooks](https://github.com/asiarbennett-ux/automated-jml-graph-api-runbooks)
 > **Goal:** Eliminate manual administrative delay during user onboarding and offboarding.
 > * **Python & PowerShell:** Wrote automated runbooks using Microsoft Graph API for Joiner-Mover-Leaver (JML) workflows.
 > * **Performance:** Reduced user offboarding session revocation latency from 15+ minutes down to **<0.5 seconds**.
