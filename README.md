@@ -1,4 +1,4 @@
-# ✨ Hi, I'm Asia! ✨
+# Hi, I'm Asia! 👋
 ### **IAM & Identity Security Practitioner | Active Secret Clearance 🔐**
 
 <p align="left">
