@@ -5,7 +5,7 @@
 
 [![Clearance](https://img.shields.io/badge/Clearance-Active_Secret-blue?style=flat-square)](https://github.com/asiabennett-ux)
 [![Platform](https://img.shields.io/badge/Platform-Microsoft_Entra_ID-informational?style=flat-square)](https://github.com/asiabennett-ux)
-[![Automation](https://img.shields.io/badge/Automation-Python_3.11-success?style=flat-square)](https://github.com/asiabennett-ux)
+[![Automation](https://img.shields.io/badge/Automation-Python_3.14.7-success?style=flat-square)](https://github.com/asiabennett-ux)
 
 </div>
 
