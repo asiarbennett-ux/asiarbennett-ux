@@ -22,14 +22,14 @@
 
 ### Professional Portfolio
 
-Hands-on technical labs built in live enterprise tenants against simulated defense sub-contractor environments:
+Hands-on technical labs built in Microsoft Entra ID and identity platforms using simulated enterprise environments:
 
-| Repository | Platform | Focus & Sub-Lab Coverage |
+| Repository | Platform | Focus & Technical Coverage |
 | :--- | :--- | :--- |
-| **[entra-id-labs](https://github.com/asiarbennett-ux/entra-id-labs)** | Microsoft Entra ID | Conditional Access, PIM, SAML SSO, entitlement management, identity governance, & Graph API automation |
-| **[automated-jml-runbooks](https://github.com/asiarbennett-ux/automated-jml-runbooks)** | Python, PowerShell, Microsoft Graph SDK | Multiple JML scenarios: Automated onboarding provisioning, departmental transfers (Movers), and emergency offboarding session revocation runbooks |
-| **[active-directory-lab](https://github.com/asiarbennett-ux/active-directory-lab)** | Windows Server 2022, VirtualBox | On-premises domain infrastructure, structured OUs, custom Group Policy Objects (GPOs), and Role-Based Access Control (RBAC) |
-| **[okta-labs](https://github.com/asiarbennett-ux/okta-labs)** | Okta Workforce Identity Cloud | User lifecycle management, profile & attribute mapping, RBAC, SCIM provisioning, and app integrations |
+| **[entra-id-labs](https://github.com/asiarbennett-ux/entra-id-labs)** | Microsoft Entra ID | Conditional Access, PIM, SAML SSO, entitlement management, identity governance, & Microsoft Graph automation |
+| **[automated-jml-runbooks](https://github.com/asiarbennett-ux/automated-jml-runbooks)** | Python, PowerShell, Microsoft Graph SDK | Joiner-Mover-Leaver lifecycle automation including onboarding provisioning, access changes, and emergency offboarding workflows |
+| **[active-directory-lab](https://github.com/asiarbennett-ux/active-directory-lab)** | Windows Server 2022, VirtualBox | On-premises domain infrastructure, structured OUs, custom Group Policy Objects (GPOs), Group-based access management, and Role-Based Access Control (RBAC) |
+| **[okta-labs](https://github.com/asiarbennett-ux/okta-labs)** | Okta Workforce Identity Cloud | User lifecycle management, profile attributes and lifecycle workflows, RBAC, SCIM provisioning, and app integrations |
 
 ---
 
