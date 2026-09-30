@@ -26,10 +26,10 @@ Hands-on technical labs built in live enterprise tenants against simulated defen
 
 | Repository | Platform | Focus & Sub-Lab Coverage |
 | :--- | :--- | :--- |
-| **[entra-id-labs](https://github.com/asiabennett-ux/entra-id-labs)** | Microsoft Entra ID | Conditional Access, PIM, SAML SSO, entitlement management, identity governance, & Graph API automation |
-| **[automated-jml-runbooks](https://github.com/asiabennett-ux/automated-jml-runbooks)** | Python, PowerShell, Microsoft Graph SDK | Multiple JML scenarios: Automated onboarding provisioning, departmental transfers (Movers), and emergency offboarding session revocation runbooks |
-| **[active-directory-lab](https://github.com/asiabennett-ux/active-directory-lab)** | Windows Server 2022, VirtualBox | On-premises domain infrastructure, structured OUs, custom Group Policy Objects (GPOs), and Role-Based Access Control (RBAC) |
-| **[okta-labs](https://github.com/asiabennett-ux/okta-labs)** | Okta Workforce Identity Cloud | User lifecycle management, profile & attribute mapping, RBAC, SCIM provisioning, and app integrations |
+| **[entra-id-labs](https://github.com/asiarbennett-ux/entra-id-labs)** | Microsoft Entra ID | Conditional Access, PIM, SAML SSO, entitlement management, identity governance, & Graph API automation |
+| **[automated-jml-runbooks](https://github.com/asiarbennett-ux/automated-jml-runbooks)** | Python, PowerShell, Microsoft Graph SDK | Multiple JML scenarios: Automated onboarding provisioning, departmental transfers (Movers), and emergency offboarding session revocation runbooks |
+| **[active-directory-lab](https://github.com/asiarbennett-ux/active-directory-lab)** | Windows Server 2022, VirtualBox | On-premises domain infrastructure, structured OUs, custom Group Policy Objects (GPOs), and Role-Based Access Control (RBAC) |
+| **[okta-labs](https://github.com/asiarbennett-ux/okta-labs)** | Okta Workforce Identity Cloud | User lifecycle management, profile & attribute mapping, RBAC, SCIM provisioning, and app integrations |
 
 ---
 
